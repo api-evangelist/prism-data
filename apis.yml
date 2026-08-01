@@ -1,8 +1,13 @@
 aid: prism-data
 name: Prism Data
-description: Prism Data is a company surfaced as a portfolio company of obvious-ventures and added to
-  the API Evangelist network as a stub for enrichment. This profile is a lead awaiting the enrichment
-  pipeline.
+description: >-
+  Prism Data is a cash flow underwriting infrastructure and analytics platform
+  that helps lenders expand approvals and lower losses by turning raw bank
+  transaction data into decisioning signals. Its products include CashScore (a
+  cash-flow-based credit score), transaction Categories, Income verification,
+  and Insights, delivered through an API and the Pulse dashboard for credit
+  underwriting across the United States and Canada. Developer API documentation
+  is published at docs.prismdata.com behind a developer login.
 url: https://raw.githubusercontent.com/api-evangelist/prism-data/refs/heads/main/apis.yml
 x-type: company
 x-source: vc-portfolio
@@ -10,11 +15,31 @@ x-backed-by:
 - obvious-ventures
 x-tier: stub
 x-tier-reason: portfolio-lead
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
 specificationVersion: '0.20'
 created: '2026-07-17'
-modified: '2026-07-17'
+modified: '2026-07-20'
+image: https://prismdata.com/assets/images/og/default.jpg
 tags:
 - Company
+- Financial Services
+- Fintech
+- Cash Flow Underwriting
+- Credit
+- Bank Transaction Data
+- Lending
+- Analytics
+- Open Banking
 apis: []
 maintainers:
 - FN: Kin Lane
@@ -24,3 +49,30 @@ maintainers:
 common:
 - type: Website
   url: https://prismdata.com
+- type: Documentation
+  url: https://docs.prismdata.com/docs
+- type: Blog
+  url: https://prismdata.com/blog/
+- type: Support
+  url: https://prismdata.com/contact-sales/
+- type: TermsOfService
+  url: https://prismdata.com/terms-of-use/
+- type: PrivacyPolicy
+  url: https://prismdata.com/privacy-policy/
+- type: StatusPage
+  url: https://status.prismdata.com
+- type: GitHubOrganization
+  url: https://github.com/prism-data
+- type: TrustCenter
+  url: security/prism-data-trust-center.yml
+- type: Compliance
+  url: https://www.prismdata.com/security/
+- type: Security
+  url: https://www.prismdata.com/security/
+- type: DomainSecurity
+  url: security/prism-data-domain-security.yml
+x-enrichment:
+  date: '2026-07-20'
+  status: enriched
+  artifacts_added: 2
+  pass: local-v1

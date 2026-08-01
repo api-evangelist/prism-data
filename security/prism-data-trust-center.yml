@@ -1,0 +1,16 @@
+generated: '2026-07-20'
+method: searched
+probe: true
+source: https://www.prismdata.com/security/
+url: https://trust.prismdata.com
+security_page: https://www.prismdata.com/security/
+certifications:
+- SOC 2
+evidence:
+- source: https://www.prismdata.com/security/
+  keywords:
+  - soc 2
+  - trust center
+- source: https://trust.prismdata.com
+  keywords:
+  - trust center
