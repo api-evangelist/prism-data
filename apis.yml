@@ -43,7 +43,7 @@ modified: '2026-07-20'
 image: https://prismdata.com/assets/images/og/default.jpg
 tags:
 - Company
-- Financial-Services
+- Financial Services
 - Fintech
 - Cash Flow Underwriting
 - Credit
@@ -61,6 +61,7 @@ tags_raw:
 - Lending
 - Analytics
 - Open Banking
+- Financial-Services
 apis: []
 maintainers:
 - FN: Kin Lane
