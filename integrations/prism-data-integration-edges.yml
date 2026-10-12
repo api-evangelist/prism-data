@@ -1,0 +1,16 @@
+generated: '2026-10-12'
+method: none
+source:
+- https://zapier.com/apps/prism-data/integrations
+- https://n8n.io/integrations/prism-data/
+- https://composio.dev/toolkits/prism-data
+- https://monid.ai/tools/prism-data
+checked:
+- https://composio.dev/toolkits/prism-data
+- https://monid.ai/tools/prism-data
+- https://n8n.io/integrations/prism-data/
+- https://zapier.com/apps/prism-data/integrations
+summary: null
+marketplace_apps: []
+edges: []
+templates: []
